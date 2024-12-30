@@ -1,0 +1,13 @@
+{
+    "name": "Glock 17",
+    "type": "pistol",
+    "manufacturer": "Glock Ges.m.b.H.",
+    "barrel_length": 114,
+    "muzzle_velocity": 375, 
+    "magazine_capacity": 17,
+    "caliber": "9x19mm",
+    "weight_empty": 625,
+    "weight_loaded": 915,
+    "trigger_pull": 28,
+    "action_type": "short recoil, locked breech"
+}

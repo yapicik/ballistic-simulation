@@ -1,0 +1,32 @@
+{
+    "bullet": {
+      "mass": {
+        "value": 12.15,
+        "unit": "grams"
+      },
+      "caliber": {
+        "value": 9,
+        "unit": "millimeters"
+      },
+      "shape": "rounded",
+      "core_material": {
+        "type": "lead",
+        "mass": {
+          "value": 8,
+          "unit": "grams"
+        },
+        "density": {
+          "value": 11.34,
+          "unit": "g/cm^3"
+        }
+      },
+      "jacket": {
+        "material": "brass"
+      },
+      "ballistic_coefficient": 0.295
+    },
+      "muzzle_velocity": {
+        "value": 370,
+        "unit": "m/s"
+      }
+  }

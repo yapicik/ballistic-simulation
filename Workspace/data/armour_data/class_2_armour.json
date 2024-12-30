@@ -1,0 +1,12 @@
+{
+  "armor_level": "NIJ 0101.04 Level 2",
+  "material": {
+      "primary": "Aramid (Kevlar)",
+      "secondary": "UHMWPE",
+      "density_g_per_cm3": 0.97
+  },
+  "thickness_meters": 0.005,
+  "energy_absorption_joules_per_m2": 15000,
+  "area_weight_kg_per_m2": 7,
+  "test_standard": "NIJ 0101.04"
+}
